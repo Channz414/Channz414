@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C++, Algorithms**
 
-- 👯 I’m looking to collaborate on **Elon Musk**
+- 👯 I’m looking to collaborate with **Elon Musk**
 
 - 🚀 My Hobbies are Sleep, Gaming, Listening to Music
 
