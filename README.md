@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chantika Tri Ramadani. N</h1>
 <h3 align="center">An IT student from Universty of Padang</h3>
 
-<img align="right" alt="coding" width="400" src="https://animesher.com/orig/1/156/1564/15640/animesher.com_kaze-tachinu-the-wind-rises-gif-1564020.gif">
+<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/e010498a-81d5-435f-af21-cfb4072f31c4">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=channz414&label=Profile%20views&color=0e75b6&style=flat" alt="channz414" /> </p>
