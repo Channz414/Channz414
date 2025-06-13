@@ -3,9 +3,7 @@
 <img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/d847a77f-7d32-4b5b-8530-c8a50626e9fe">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=channz414&label=Profile%20views&color=0e75b6&style=flat" alt="channz414" /> </p>
 
-- 🌱 I’m currently learning **C++, Algorithms**
-
-- 👯 I’m looking to collaborate with **Elon Musk**
+- 🌱 I’m currently learning **C++, PHP, JavaScript**
 
 - 🚀 My Hobbies are Sleep, Gaming, Listening to Music
 
